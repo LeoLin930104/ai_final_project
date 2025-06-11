@@ -1,0 +1,48 @@
+2025-01-15 02:06:49,448 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2400. 128 neurons.
+2025-01-15 02:06:49,450 - INFO - Training for fold 1/5
+2025-01-15 02:06:50,790 - INFO - Epoch [1/100], Train Accuracy: 0.4875, Val Accuracy: 0.7896
+2025-01-15 02:06:50,911 - INFO - Epoch [2/100], Train Accuracy: 0.8953, Val Accuracy: 0.8833
+2025-01-15 02:06:51,028 - INFO - Epoch [3/100], Train Accuracy: 0.9401, Val Accuracy: 0.8938
+2025-01-15 02:06:51,145 - INFO - Epoch [4/100], Train Accuracy: 0.9641, Val Accuracy: 0.9187
+2025-01-15 02:06:51,258 - INFO - Epoch [5/100], Train Accuracy: 0.9812, Val Accuracy: 0.9125
+2025-01-15 02:06:51,373 - INFO - Epoch [6/100], Train Accuracy: 0.9901, Val Accuracy: 0.9208
+2025-01-15 02:06:51,488 - INFO - Epoch [7/100], Train Accuracy: 0.9938, Val Accuracy: 0.9187
+2025-01-15 02:06:51,502 - INFO - Fold 1 Validation Accuracy: 0.9187
+2025-01-15 02:06:51,502 - INFO - Training for fold 2/5
+2025-01-15 02:06:51,624 - INFO - Epoch [1/100], Train Accuracy: 0.5677, Val Accuracy: 0.8854
+2025-01-15 02:06:51,734 - INFO - Epoch [2/100], Train Accuracy: 0.9042, Val Accuracy: 0.8938
+2025-01-15 02:06:51,850 - INFO - Epoch [3/100], Train Accuracy: 0.9359, Val Accuracy: 0.8938
+2025-01-15 02:06:51,961 - INFO - Epoch [4/100], Train Accuracy: 0.9703, Val Accuracy: 0.9083
+2025-01-15 02:06:52,083 - INFO - Epoch [5/100], Train Accuracy: 0.9823, Val Accuracy: 0.9042
+2025-01-15 02:06:52,195 - INFO - Epoch [6/100], Train Accuracy: 0.9922, Val Accuracy: 0.9187
+2025-01-15 02:06:52,309 - INFO - Epoch [7/100], Train Accuracy: 0.9964, Val Accuracy: 0.9167
+2025-01-15 02:06:52,325 - INFO - Fold 2 Validation Accuracy: 0.9167
+2025-01-15 02:06:52,325 - INFO - Training for fold 3/5
+2025-01-15 02:06:52,450 - INFO - Epoch [1/100], Train Accuracy: 0.4953, Val Accuracy: 0.8354
+2025-01-15 02:06:52,568 - INFO - Epoch [2/100], Train Accuracy: 0.9000, Val Accuracy: 0.8729
+2025-01-15 02:06:52,685 - INFO - Epoch [3/100], Train Accuracy: 0.9406, Val Accuracy: 0.9229
+2025-01-15 02:06:52,803 - INFO - Epoch [4/100], Train Accuracy: 0.9672, Val Accuracy: 0.9313
+2025-01-15 02:06:52,915 - INFO - Epoch [5/100], Train Accuracy: 0.9818, Val Accuracy: 0.9271
+2025-01-15 02:06:53,034 - INFO - Epoch [6/100], Train Accuracy: 0.9901, Val Accuracy: 0.9396
+2025-01-15 02:06:53,146 - INFO - Epoch [7/100], Train Accuracy: 0.9943, Val Accuracy: 0.9354
+2025-01-15 02:06:53,159 - INFO - Fold 3 Validation Accuracy: 0.9354
+2025-01-15 02:06:53,159 - INFO - Training for fold 4/5
+2025-01-15 02:06:53,291 - INFO - Epoch [1/100], Train Accuracy: 0.5437, Val Accuracy: 0.9042
+2025-01-15 02:06:53,412 - INFO - Epoch [2/100], Train Accuracy: 0.9151, Val Accuracy: 0.9125
+2025-01-15 02:06:53,534 - INFO - Epoch [3/100], Train Accuracy: 0.9391, Val Accuracy: 0.9271
+2025-01-15 02:06:53,651 - INFO - Epoch [4/100], Train Accuracy: 0.9688, Val Accuracy: 0.9292
+2025-01-15 02:06:53,769 - INFO - Epoch [5/100], Train Accuracy: 0.9844, Val Accuracy: 0.9354
+2025-01-15 02:06:53,889 - INFO - Epoch [6/100], Train Accuracy: 0.9911, Val Accuracy: 0.9292
+2025-01-15 02:06:53,905 - INFO - Fold 4 Validation Accuracy: 0.9292
+2025-01-15 02:06:53,905 - INFO - Training for fold 5/5
+2025-01-15 02:06:54,021 - INFO - Epoch [1/100], Train Accuracy: 0.5734, Val Accuracy: 0.8625
+2025-01-15 02:06:54,146 - INFO - Epoch [2/100], Train Accuracy: 0.9167, Val Accuracy: 0.8708
+2025-01-15 02:06:54,260 - INFO - Epoch [3/100], Train Accuracy: 0.9443, Val Accuracy: 0.8875
+2025-01-15 02:06:54,373 - INFO - Epoch [4/100], Train Accuracy: 0.9682, Val Accuracy: 0.8938
+2025-01-15 02:06:54,493 - INFO - Epoch [5/100], Train Accuracy: 0.9844, Val Accuracy: 0.9021
+2025-01-15 02:06:54,608 - INFO - Epoch [6/100], Train Accuracy: 0.9906, Val Accuracy: 0.9042
+2025-01-15 02:06:54,749 - INFO - Epoch [7/100], Train Accuracy: 0.9927, Val Accuracy: 0.9021
+2025-01-15 02:06:54,798 - INFO - Fold 5 Validation Accuracy: 0.9021
+2025-01-15 02:06:54,798 - INFO - Average Validation Accuracy (Over 5 folds): 0.9204 
+
+2025-01-15 02:06:54,803 - INFO - Error: too many indices for tensor of dimension 2

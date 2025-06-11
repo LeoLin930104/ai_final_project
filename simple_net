@@ -1,0 +1,40 @@
+digraph {
+	graph [size="12,12"]
+	node [align=left fontname=monospace fontsize=10 height=0.2 ranksep=0.1 shape=box style=filled]
+	4596944224 [label="
+ (1, 3)" fillcolor=darkolivegreen1]
+	4598266176 [label=SoftmaxBackward0]
+	4598267184 -> 4598266176
+	4598267184 [label=AddmmBackward0]
+	4598262144 -> 4598267184
+	4598992064 [label="fc4.bias
+ (3)" fillcolor=lightblue]
+	4598992064 -> 4598262144
+	4598262144 [label=AccumulateGrad]
+	4598265984 -> 4598267184
+	4598265984 [label=MulBackward0]
+	4598262480 -> 4598265984
+	4598262480 [label=ReluBackward0]
+	4598267616 -> 4598262480
+	4598267616 [label=AddmmBackward0]
+	4598267712 -> 4598267616
+	4598992224 [label="fc1.bias
+ (218)" fillcolor=lightblue]
+	4598992224 -> 4598267712
+	4598267712 [label=AccumulateGrad]
+	4598267280 -> 4598267616
+	4598267280 [label=TBackward0]
+	4598261568 -> 4598267280
+	4598992384 [label="fc1.weight
+ (218, 1000)" fillcolor=lightblue]
+	4598992384 -> 4598261568
+	4598261568 [label=AccumulateGrad]
+	4598267136 -> 4598267184
+	4598267136 [label=TBackward0]
+	4598265840 -> 4598267136
+	4598992144 [label="fc4.weight
+ (3, 218)" fillcolor=lightblue]
+	4598992144 -> 4598265840
+	4598265840 [label=AccumulateGrad]
+	4598266176 -> 4596944224
+}

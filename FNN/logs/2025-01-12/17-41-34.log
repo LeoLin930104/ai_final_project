@@ -1,0 +1,38 @@
+2025-01-12 17:41:34,970 - INFO - Testing console logging.
+2025-01-12 17:41:35,220 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.70. Dataset Size 2520
+2025-01-12 17:41:36,449 - INFO - Epoch [1/100], Train Accuracy: 0.4107, Val Accuracy: 0.6429
+2025-01-12 17:41:36,569 - INFO - Epoch [2/100], Train Accuracy: 0.7768, Val Accuracy: 0.8056
+2025-01-12 17:41:36,688 - INFO - Epoch [3/100], Train Accuracy: 0.8780, Val Accuracy: 0.8373
+2025-01-12 17:41:36,813 - INFO - Epoch [4/100], Train Accuracy: 0.9350, Val Accuracy: 0.8413
+2025-01-12 17:41:36,928 - INFO - Epoch [5/100], Train Accuracy: 0.9683, Val Accuracy: 0.8413
+2025-01-12 17:41:37,038 - INFO - Epoch [6/100], Train Accuracy: 0.9866, Val Accuracy: 0.8433
+2025-01-12 17:41:37,168 - INFO - Epoch [7/100], Train Accuracy: 0.9980, Val Accuracy: 0.8333
+2025-01-12 17:41:37,178 - INFO - Fold 1 Validation Accuracy: 0.8333
+2025-01-12 17:41:37,181 - INFO - Save model to C:\Users\LeoLi\OneDrive - 学校法人立命館\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/17-41-35/model_0.pth
+2025-01-12 17:41:37,304 - INFO - Epoch [1/100], Train Accuracy: 0.3740, Val Accuracy: 0.6369
+2025-01-12 17:41:37,430 - INFO - Epoch [2/100], Train Accuracy: 0.7971, Val Accuracy: 0.8115
+2025-01-12 17:41:37,548 - INFO - Epoch [3/100], Train Accuracy: 0.8874, Val Accuracy: 0.8433
+2025-01-12 17:41:37,663 - INFO - Epoch [4/100], Train Accuracy: 0.9405, Val Accuracy: 0.8433
+2025-01-12 17:41:37,789 - INFO - Epoch [5/100], Train Accuracy: 0.9747, Val Accuracy: 0.8373
+2025-01-12 17:41:37,802 - INFO - Fold 2 Validation Accuracy: 0.8373
+2025-01-12 17:41:37,805 - INFO - Save model to C:\Users\LeoLi\OneDrive - 学校法人立命館\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/17-41-35/model_1.pth
+2025-01-12 17:41:37,928 - INFO - Epoch [1/100], Train Accuracy: 0.3819, Val Accuracy: 0.6230
+2025-01-12 17:41:38,054 - INFO - Epoch [2/100], Train Accuracy: 0.8115, Val Accuracy: 0.7976
+2025-01-12 17:41:38,183 - INFO - Epoch [3/100], Train Accuracy: 0.8849, Val Accuracy: 0.8413
+2025-01-12 17:41:38,300 - INFO - Epoch [4/100], Train Accuracy: 0.9380, Val Accuracy: 0.8532
+2025-01-12 17:41:38,425 - INFO - Epoch [5/100], Train Accuracy: 0.9678, Val Accuracy: 0.8452
+2025-01-12 17:41:38,436 - INFO - Fold 3 Validation Accuracy: 0.8452
+2025-01-12 17:41:38,439 - INFO - Save model to C:\Users\LeoLi\OneDrive - 学校法人立命館\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/17-41-35/model_2.pth
+2025-01-12 17:41:38,566 - INFO - Epoch [1/100], Train Accuracy: 0.4325, Val Accuracy: 0.7560
+2025-01-12 17:41:38,676 - INFO - Epoch [2/100], Train Accuracy: 0.7808, Val Accuracy: 0.8056
+2025-01-12 17:41:38,795 - INFO - Epoch [3/100], Train Accuracy: 0.8909, Val Accuracy: 0.8254
+2025-01-12 17:41:38,911 - INFO - Epoch [4/100], Train Accuracy: 0.9425, Val Accuracy: 0.8194
+2025-01-12 17:41:38,926 - INFO - Fold 4 Validation Accuracy: 0.8194
+2025-01-12 17:41:38,928 - INFO - Save model to C:\Users\LeoLi\OneDrive - 学校法人立命館\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/17-41-35/model_3.pth
+2025-01-12 17:41:39,054 - INFO - Epoch [1/100], Train Accuracy: 0.3780, Val Accuracy: 0.6210
+2025-01-12 17:41:39,177 - INFO - Epoch [2/100], Train Accuracy: 0.7961, Val Accuracy: 0.8214
+2025-01-12 17:41:39,298 - INFO - Epoch [3/100], Train Accuracy: 0.8904, Val Accuracy: 0.8175
+2025-01-12 17:41:39,312 - INFO - Fold 5 Validation Accuracy: 0.8175
+2025-01-12 17:41:39,315 - INFO - Save model to C:\Users\LeoLi\OneDrive - 学校法人立命館\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/17-41-35/model_4.pth
+2025-01-12 17:41:39,316 - INFO - Average Validation Accuracy (Over 5 folds): 0.8306 
+

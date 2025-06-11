@@ -1,0 +1,12 @@
+2025-01-17 05:23:31,790 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.768. Dataset Size 2400. 218 neurons. Leanring Rate 0.00264
+2025-01-17 05:23:31,791 - INFO - Training for fold 1/5
+2025-01-17 05:23:33,126 - INFO - Epoch [1/100], Train Accuracy: 0.7391, Val Accuracy: 0.8958
+2025-01-17 05:23:33,242 - INFO - Epoch [2/100], Train Accuracy: 0.9328, Val Accuracy: 0.9146
+2025-01-17 05:23:33,365 - INFO - Epoch [3/100], Train Accuracy: 0.9771, Val Accuracy: 0.9167
+2025-01-17 05:23:33,467 - INFO - Epoch [4/100], Train Accuracy: 0.9891, Val Accuracy: 0.9167
+2025-01-17 05:23:33,570 - INFO - Epoch [5/100], Train Accuracy: 0.9953, Val Accuracy: 0.9229
+2025-01-17 05:23:33,675 - INFO - Epoch [6/100], Train Accuracy: 0.9964, Val Accuracy: 0.9125
+2025-01-17 05:23:33,694 - INFO -   Class political science: Precision: 0.9221, Recall: 0.8765, F1: 0.8987
+2025-01-17 05:23:33,694 - INFO -   Class psychology: Precision: 0.9141, Recall: 0.9430, F1: 0.9283
+2025-01-17 05:23:33,694 - INFO -   Class sociology: Precision: 0.9018, Recall: 0.9187, F1: 0.9102
+2025-01-17 05:23:33,953 - INFO - Error: [Errno 2] No such file or directory: 'C:\\Users\\LeoLi\\OneDrive - äwçZñ@êlóßñΩäŸ\\Ritsumei\\4th_Semester\\Artificial_Intelligence\\final_project\\code\\FNN/model/2025-01-17/05-23-31//fold0/conf_matrix.png'

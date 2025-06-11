@@ -1,0 +1,40 @@
+2025-01-14 21:26:30,434 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-14 21:26:30,435 - INFO - Training for fold 1/5
+2025-01-14 21:26:32,239 - INFO - Epoch [1/100], Train Accuracy: 0.3319, Val Accuracy: 0.5669
+2025-01-14 21:26:32,377 - INFO - Epoch [2/100], Train Accuracy: 0.6194, Val Accuracy: 0.9100
+2025-01-14 21:26:32,515 - INFO - Epoch [3/100], Train Accuracy: 0.9398, Val Accuracy: 0.9289
+2025-01-14 21:26:32,660 - INFO - Epoch [4/100], Train Accuracy: 0.9848, Val Accuracy: 0.9100
+2025-01-14 21:26:32,797 - INFO - Epoch [5/100], Train Accuracy: 0.9958, Val Accuracy: 0.9142
+2025-01-14 21:26:32,811 - INFO - Fold 1 Validation Accuracy: 0.9142
+2025-01-14 21:26:32,812 - INFO - Training for fold 2/5
+2025-01-14 21:26:32,979 - INFO - Epoch [1/100], Train Accuracy: 0.3675, Val Accuracy: 0.3849
+2025-01-14 21:26:33,114 - INFO - Epoch [2/100], Train Accuracy: 0.7707, Val Accuracy: 0.8912
+2025-01-14 21:26:33,264 - INFO - Epoch [3/100], Train Accuracy: 0.9654, Val Accuracy: 0.9079
+2025-01-14 21:26:33,406 - INFO - Epoch [4/100], Train Accuracy: 0.9885, Val Accuracy: 0.9059
+2025-01-14 21:26:33,543 - INFO - Epoch [5/100], Train Accuracy: 0.9942, Val Accuracy: 0.9017
+2025-01-14 21:26:33,561 - INFO - Fold 2 Validation Accuracy: 0.9017
+2025-01-14 21:26:33,561 - INFO - Training for fold 3/5
+2025-01-14 21:26:33,721 - INFO - Epoch [1/100], Train Accuracy: 0.3351, Val Accuracy: 0.3598
+2025-01-14 21:26:33,873 - INFO - Epoch [2/100], Train Accuracy: 0.7644, Val Accuracy: 0.8912
+2025-01-14 21:26:34,063 - INFO - Epoch [3/100], Train Accuracy: 0.9429, Val Accuracy: 0.9205
+2025-01-14 21:26:34,413 - INFO - Epoch [4/100], Train Accuracy: 0.9838, Val Accuracy: 0.9184
+2025-01-14 21:26:34,713 - INFO - Epoch [5/100], Train Accuracy: 0.9906, Val Accuracy: 0.9163
+2025-01-14 21:26:34,741 - INFO - Fold 3 Validation Accuracy: 0.9163
+2025-01-14 21:26:34,742 - INFO - Training for fold 4/5
+2025-01-14 21:26:35,098 - INFO - Epoch [1/100], Train Accuracy: 0.3543, Val Accuracy: 0.3585
+2025-01-14 21:26:35,275 - INFO - Epoch [2/100], Train Accuracy: 0.8001, Val Accuracy: 0.9119
+2025-01-14 21:26:35,408 - INFO - Epoch [3/100], Train Accuracy: 0.9592, Val Accuracy: 0.9266
+2025-01-14 21:26:35,572 - INFO - Epoch [4/100], Train Accuracy: 0.9801, Val Accuracy: 0.9308
+2025-01-14 21:26:35,713 - INFO - Epoch [5/100], Train Accuracy: 0.9890, Val Accuracy: 0.9266
+2025-01-14 21:26:35,855 - INFO - Epoch [6/100], Train Accuracy: 0.9937, Val Accuracy: 0.9245
+2025-01-14 21:26:35,865 - INFO - Fold 4 Validation Accuracy: 0.9245
+2025-01-14 21:26:35,867 - INFO - Training for fold 5/5
+2025-01-14 21:26:36,045 - INFO - Epoch [1/100], Train Accuracy: 0.3349, Val Accuracy: 0.3270
+2025-01-14 21:26:36,170 - INFO - Epoch [2/100], Train Accuracy: 0.6892, Val Accuracy: 0.8700
+2025-01-14 21:26:36,310 - INFO - Epoch [3/100], Train Accuracy: 0.9477, Val Accuracy: 0.8994
+2025-01-14 21:26:36,428 - INFO - Epoch [4/100], Train Accuracy: 0.9838, Val Accuracy: 0.9015
+2025-01-14 21:26:36,577 - INFO - Epoch [5/100], Train Accuracy: 0.9932, Val Accuracy: 0.8931
+2025-01-14 21:26:36,589 - INFO - Fold 5 Validation Accuracy: 0.8931
+2025-01-14 21:26:36,589 - INFO - Average Validation Accuracy (Over 5 folds): 0.9100 
+
+2025-01-14 21:26:36,590 - INFO - Error: unsupported format string passed to numpy.ndarray.__format__

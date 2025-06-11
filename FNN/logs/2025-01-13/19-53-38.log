@@ -1,0 +1,4 @@
+2025-01-13 19:53:38,517 - INFO - Training with Vectorized Data 100 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-13 19:53:40,459 - INFO - Training with Vectorized Data 200 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-13 19:53:41,112 - INFO - Training with Vectorized Data 300 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-13 19:53:42,337 - INFO - Training with Vectorized Data 400 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.

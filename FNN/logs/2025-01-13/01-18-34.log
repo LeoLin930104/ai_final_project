@@ -1,0 +1,12 @@
+2025-01-13 01:18:35,257 - INFO - Training with Vectorized Data 18396 features. Dropout Rate 0.70. Dataset Size 2388. 2 neurons.
+2025-01-13 01:18:35,258 - INFO - Training for fold 1/5
+2025-01-13 01:18:36,812 - INFO - Epoch [1/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:36,966 - INFO - Epoch [2/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,108 - INFO - Epoch [3/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,259 - INFO - Epoch [4/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,391 - INFO - Epoch [5/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,534 - INFO - Epoch [6/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,662 - INFO - Epoch [7/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,799 - INFO - Epoch [8/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:37,972 - INFO - Epoch [9/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326
+2025-01-13 01:18:38,097 - INFO - Epoch [10/100], Train Accuracy: 0.3335, Val Accuracy: 0.3326

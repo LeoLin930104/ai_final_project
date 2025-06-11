@@ -1,0 +1,55 @@
+2025-01-17 05:24:27,950 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.768. Dataset Size 2400. 218 neurons. Leanring Rate 0.00264
+2025-01-17 05:24:27,950 - INFO - Training for fold 1/5
+2025-01-17 05:24:29,004 - INFO - Epoch [1/100], Train Accuracy: 0.7094, Val Accuracy: 0.9104
+2025-01-17 05:24:29,101 - INFO - Epoch [2/100], Train Accuracy: 0.9380, Val Accuracy: 0.9333
+2025-01-17 05:24:29,199 - INFO - Epoch [3/100], Train Accuracy: 0.9766, Val Accuracy: 0.9354
+2025-01-17 05:24:29,303 - INFO - Epoch [4/100], Train Accuracy: 0.9911, Val Accuracy: 0.9292
+2025-01-17 05:24:29,410 - INFO - Epoch [5/100], Train Accuracy: 0.9948, Val Accuracy: 0.9354
+2025-01-17 05:24:29,515 - INFO - Epoch [6/100], Train Accuracy: 0.9984, Val Accuracy: 0.9333
+2025-01-17 05:24:29,618 - INFO - Epoch [7/100], Train Accuracy: 0.9984, Val Accuracy: 0.9333
+2025-01-17 05:24:29,715 - INFO - Epoch [8/100], Train Accuracy: 0.9984, Val Accuracy: 0.9313
+2025-01-17 05:24:29,732 - INFO -   Class political science: Precision: 0.9342, Recall: 0.8931, F1: 0.9132
+2025-01-17 05:24:29,732 - INFO -   Class psychology: Precision: 0.9515, Recall: 0.9458, F1: 0.9486
+2025-01-17 05:24:29,732 - INFO -   Class sociology: Precision: 0.9080, Recall: 0.9548, F1: 0.9308
+2025-01-17 05:24:30,084 - INFO - Training for fold 2/5
+2025-01-17 05:24:30,189 - INFO - Epoch [1/100], Train Accuracy: 0.7193, Val Accuracy: 0.8792
+2025-01-17 05:24:30,279 - INFO - Epoch [2/100], Train Accuracy: 0.9401, Val Accuracy: 0.9062
+2025-01-17 05:24:30,377 - INFO - Epoch [3/100], Train Accuracy: 0.9745, Val Accuracy: 0.9104
+2025-01-17 05:24:30,470 - INFO - Epoch [4/100], Train Accuracy: 0.9880, Val Accuracy: 0.9083
+2025-01-17 05:24:30,569 - INFO - Epoch [5/100], Train Accuracy: 0.9927, Val Accuracy: 0.9062
+2025-01-17 05:24:30,667 - INFO - Epoch [6/100], Train Accuracy: 0.9964, Val Accuracy: 0.9125
+2025-01-17 05:24:30,755 - INFO - Epoch [7/100], Train Accuracy: 0.9969, Val Accuracy: 0.9146
+2025-01-17 05:24:30,851 - INFO - Epoch [8/100], Train Accuracy: 0.9969, Val Accuracy: 0.9062
+2025-01-17 05:24:30,867 - INFO -   Class political science: Precision: 0.8944, Recall: 0.8639, F1: 0.8789
+2025-01-17 05:24:30,867 - INFO -   Class psychology: Precision: 0.9226, Recall: 0.9226, F1: 0.9226
+2025-01-17 05:24:30,867 - INFO -   Class sociology: Precision: 0.9000, Recall: 0.9273, F1: 0.9134
+2025-01-17 05:24:31,097 - INFO - Training for fold 3/5
+2025-01-17 05:24:31,203 - INFO - Epoch [1/100], Train Accuracy: 0.6984, Val Accuracy: 0.9021
+2025-01-17 05:24:31,301 - INFO - Epoch [2/100], Train Accuracy: 0.9302, Val Accuracy: 0.9313
+2025-01-17 05:24:31,396 - INFO - Epoch [3/100], Train Accuracy: 0.9750, Val Accuracy: 0.9292
+2025-01-17 05:24:31,492 - INFO - Epoch [4/100], Train Accuracy: 0.9901, Val Accuracy: 0.9333
+2025-01-17 05:24:31,585 - INFO - Epoch [5/100], Train Accuracy: 0.9948, Val Accuracy: 0.9396
+2025-01-17 05:24:31,684 - INFO - Epoch [6/100], Train Accuracy: 0.9979, Val Accuracy: 0.9354
+2025-01-17 05:24:31,700 - INFO -   Class political science: Precision: 0.9512, Recall: 0.9017, F1: 0.9258
+2025-01-17 05:24:31,700 - INFO -   Class psychology: Precision: 0.9286, Recall: 0.9728, F1: 0.9502
+2025-01-17 05:24:31,700 - INFO -   Class sociology: Precision: 0.9259, Recall: 0.9375, F1: 0.9317
+2025-01-17 05:24:31,935 - INFO - Training for fold 4/5
+2025-01-17 05:24:32,040 - INFO - Epoch [1/100], Train Accuracy: 0.7255, Val Accuracy: 0.9292
+2025-01-17 05:24:32,138 - INFO - Epoch [2/100], Train Accuracy: 0.9297, Val Accuracy: 0.9437
+2025-01-17 05:24:32,239 - INFO - Epoch [3/100], Train Accuracy: 0.9714, Val Accuracy: 0.9292
+2025-01-17 05:24:32,329 - INFO - Epoch [4/100], Train Accuracy: 0.9891, Val Accuracy: 0.9292
+2025-01-17 05:24:32,428 - INFO - Epoch [5/100], Train Accuracy: 0.9932, Val Accuracy: 0.9333
+2025-01-17 05:24:32,530 - INFO - Epoch [6/100], Train Accuracy: 0.9953, Val Accuracy: 0.9229
+2025-01-17 05:24:32,544 - INFO -   Class political science: Precision: 0.9152, Recall: 0.9321, F1: 0.9235
+2025-01-17 05:24:32,544 - INFO -   Class psychology: Precision: 0.9557, Recall: 0.9264, F1: 0.9408
+2025-01-17 05:24:32,544 - INFO -   Class sociology: Precision: 0.8981, Recall: 0.9097, F1: 0.9038
+2025-01-17 05:24:32,785 - INFO - Training for fold 5/5
+2025-01-17 05:24:32,889 - INFO - Epoch [1/100], Train Accuracy: 0.6849, Val Accuracy: 0.9021
+2025-01-17 05:24:32,986 - INFO - Epoch [2/100], Train Accuracy: 0.9292, Val Accuracy: 0.9292
+2025-01-17 05:24:33,083 - INFO - Epoch [3/100], Train Accuracy: 0.9724, Val Accuracy: 0.9375
+2025-01-17 05:24:33,181 - INFO - Epoch [4/100], Train Accuracy: 0.9896, Val Accuracy: 0.9313
+2025-01-17 05:24:33,280 - INFO - Epoch [5/100], Train Accuracy: 0.9948, Val Accuracy: 0.9396
+2025-01-17 05:24:33,375 - INFO - Epoch [6/100], Train Accuracy: 0.9969, Val Accuracy: 0.9354
+2025-01-17 05:24:33,391 - INFO -   Class political science: Precision: 0.9245, Recall: 0.9245, F1: 0.9245
+2025-01-17 05:24:33,391 - INFO -   Class psychology: Precision: 0.9497, Recall: 0.9679, F1: 0.9587
+2025-01-17 05:24:33,391 - INFO -   Class sociology: Precision: 0.9321, Recall: 0.9152, F1: 0.9235

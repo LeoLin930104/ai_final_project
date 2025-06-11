@@ -1,0 +1,2 @@
+2025-01-12 18:50:58,947 - INFO - Testing console logging.
+2025-01-12 18:50:59,200 - INFO - Error: 'Tensor' object has no attribute 'to_array'

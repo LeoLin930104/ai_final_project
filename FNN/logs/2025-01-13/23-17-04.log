@@ -1,0 +1,22 @@
+2025-01-13 23:17:04,975 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2388. 2 neurons.
+2025-01-13 23:17:04,975 - INFO - Training for fold 1/5
+2025-01-13 23:17:06,502 - INFO - Epoch [1/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:06,707 - INFO - Epoch [2/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:06,918 - INFO - Epoch [3/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:07,132 - INFO - Epoch [4/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:07,341 - INFO - Epoch [5/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:07,544 - INFO - Epoch [6/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:07,756 - INFO - Epoch [7/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:07,960 - INFO - Epoch [8/100], Train Accuracy: 0.3267, Val Accuracy: 0.3598
+2025-01-13 23:17:08,179 - INFO - Epoch [9/100], Train Accuracy: 0.4885, Val Accuracy: 0.5188
+2025-01-13 23:17:08,377 - INFO - Epoch [10/100], Train Accuracy: 0.6571, Val Accuracy: 0.5753
+2025-01-13 23:17:08,588 - INFO - Epoch [11/100], Train Accuracy: 0.6660, Val Accuracy: 0.5774
+2025-01-13 23:17:08,798 - INFO - Epoch [12/100], Train Accuracy: 0.6675, Val Accuracy: 0.5879
+2025-01-13 23:17:09,004 - INFO - Epoch [13/100], Train Accuracy: 0.6702, Val Accuracy: 0.5900
+2025-01-13 23:17:09,223 - INFO - Epoch [14/100], Train Accuracy: 0.6702, Val Accuracy: 0.6025
+2025-01-13 23:17:09,436 - INFO - Epoch [15/100], Train Accuracy: 0.6707, Val Accuracy: 0.6025
+2025-01-13 23:17:09,633 - INFO - Epoch [16/100], Train Accuracy: 0.6707, Val Accuracy: 0.6088
+2025-01-13 23:17:09,834 - INFO - Epoch [17/100], Train Accuracy: 0.6707, Val Accuracy: 0.6025
+2025-01-13 23:17:10,039 - INFO - Epoch [18/100], Train Accuracy: 0.6707, Val Accuracy: 0.6046
+2025-01-13 23:17:10,267 - INFO - Epoch [19/100], Train Accuracy: 0.6707, Val Accuracy: 0.6088
+2025-01-13 23:17:10,492 - INFO - Epoch [20/100], Train Accuracy: 0.6707, Val Accuracy: 0.6130

@@ -1,0 +1,2 @@
+2025-01-12 17:11:46,426 - INFO - Testing console logging.
+2025-01-12 17:11:46,540 - INFO - Error: expected a sequence of integers or a single integer, got '5.0'

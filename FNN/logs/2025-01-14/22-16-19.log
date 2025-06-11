@@ -1,0 +1,10 @@
+2025-01-14 22:16:20,202 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-14 22:16:20,203 - INFO - Training for fold 1/5
+2025-01-14 22:16:21,860 - INFO - Epoch [1/100], Train Accuracy: 0.4503, Val Accuracy: 0.7280
+2025-01-14 22:16:21,970 - INFO - Epoch [2/100], Train Accuracy: 0.8806, Val Accuracy: 0.8598
+2025-01-14 22:16:22,077 - INFO - Epoch [3/100], Train Accuracy: 0.9382, Val Accuracy: 0.9017
+2025-01-14 22:16:22,184 - INFO - Epoch [4/100], Train Accuracy: 0.9623, Val Accuracy: 0.9100
+2025-01-14 22:16:22,291 - INFO - Epoch [5/100], Train Accuracy: 0.9822, Val Accuracy: 0.9059
+2025-01-14 22:16:22,401 - INFO - Epoch [6/100], Train Accuracy: 0.9885, Val Accuracy: 0.9184
+2025-01-14 22:16:22,506 - INFO - Epoch [7/100], Train Accuracy: 0.9932, Val Accuracy: 0.9121
+2025-01-14 22:16:22,519 - INFO - Error: cannot unpack non-iterable float object

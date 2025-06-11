@@ -1,0 +1,12 @@
+2025-01-12 21:40:56,221 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.70. Dataset Size 2388
+2025-01-12 21:40:56,221 - INFO - Training for fold 1/5
+2025-01-12 21:40:57,492 - INFO - Epoch [1/100], Train Accuracy: 0.3325, Val Accuracy: 0.3828
+2025-01-12 21:40:57,606 - INFO - Epoch [2/100], Train Accuracy: 0.7754, Val Accuracy: 0.8431
+2025-01-12 21:40:57,720 - INFO - Epoch [3/100], Train Accuracy: 0.9178, Val Accuracy: 0.9142
+2025-01-12 21:40:57,835 - INFO - Epoch [4/100], Train Accuracy: 0.9613, Val Accuracy: 0.9163
+2025-01-12 21:40:57,945 - INFO - Epoch [5/100], Train Accuracy: 0.9864, Val Accuracy: 0.9205
+2025-01-12 21:40:58,067 - INFO - Epoch [6/100], Train Accuracy: 0.9927, Val Accuracy: 0.9142
+2025-01-12 21:40:58,185 - INFO - Epoch [7/100], Train Accuracy: 0.9974, Val Accuracy: 0.9163
+2025-01-12 21:40:58,199 - INFO - Fold 1 Validation Accuracy: 0.9163
+2025-01-12 21:40:58,201 - INFO - Save model to C:\Users\LeoLi\OneDrive - äwçZñ@êlóßñΩäŸ\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/21-40-56/model_0.pth
+2025-01-12 21:41:00,011 - INFO - Error: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat1 in method wrapper_CUDA_addmm)

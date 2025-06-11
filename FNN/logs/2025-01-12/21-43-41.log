@@ -1,0 +1,12 @@
+2025-01-12 21:43:41,623 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.70. Dataset Size 2388
+2025-01-12 21:43:41,624 - INFO - Training for fold 1/5
+2025-01-12 21:43:42,997 - INFO - Epoch [1/100], Train Accuracy: 0.3503, Val Accuracy: 0.4540
+2025-01-12 21:43:43,116 - INFO - Epoch [2/100], Train Accuracy: 0.7126, Val Accuracy: 0.8159
+2025-01-12 21:43:43,237 - INFO - Epoch [3/100], Train Accuracy: 0.9152, Val Accuracy: 0.9184
+2025-01-12 21:43:43,373 - INFO - Epoch [4/100], Train Accuracy: 0.9618, Val Accuracy: 0.9310
+2025-01-12 21:43:43,484 - INFO - Epoch [5/100], Train Accuracy: 0.9791, Val Accuracy: 0.9310
+2025-01-12 21:43:43,591 - INFO - Epoch [6/100], Train Accuracy: 0.9937, Val Accuracy: 0.9331
+2025-01-12 21:43:43,701 - INFO - Epoch [7/100], Train Accuracy: 0.9979, Val Accuracy: 0.9205
+2025-01-12 21:43:43,711 - INFO - Fold 1 Validation Accuracy: 0.9205
+2025-01-12 21:43:43,714 - INFO - Save model to C:\Users\LeoLi\OneDrive - äwçZñ@êlóßñΩäŸ\Ritsumei\4th_Semester\Artificial_Intelligence\final_project\code\FNN/model/2025-01-12/21-43-41/model_0.pth
+2025-01-12 21:43:44,920 - INFO - Error: failed to execute WindowsPath('dot'), make sure the Graphviz executables are on your systems' PATH

@@ -1,0 +1,2 @@
+2025-01-12 22:31:18,758 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.70. Dataset Size 2388
+2025-01-12 22:31:18,841 - INFO - Error: 'Linear' object has no attribute 'shape'

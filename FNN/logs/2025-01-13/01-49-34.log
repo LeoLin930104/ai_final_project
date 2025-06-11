@@ -1,0 +1,37 @@
+2025-01-13 01:49:34,991 - INFO - Training with Vectorized Data 13198 features. Dropout Rate 0.70. Dataset Size 2388. 2 neurons.
+2025-01-13 01:49:34,992 - INFO - Training for fold 1/5
+2025-01-13 01:49:36,318 - INFO - Epoch [1/100], Train Accuracy: 0.3314, Val Accuracy: 0.3410
+2025-01-13 01:49:36,454 - INFO - Epoch [2/100], Train Accuracy: 0.3314, Val Accuracy: 0.3410
+2025-01-13 01:49:36,613 - INFO - Epoch [3/100], Train Accuracy: 0.3314, Val Accuracy: 0.3410
+2025-01-13 01:49:36,750 - INFO - Epoch [4/100], Train Accuracy: 0.3314, Val Accuracy: 0.3410
+2025-01-13 01:49:36,898 - INFO - Epoch [5/100], Train Accuracy: 0.5398, Val Accuracy: 0.5962
+2025-01-13 01:49:37,039 - INFO - Epoch [6/100], Train Accuracy: 0.6529, Val Accuracy: 0.5753
+2025-01-13 01:49:37,184 - INFO - Epoch [7/100], Train Accuracy: 0.6450, Val Accuracy: 0.5795
+2025-01-13 01:49:37,333 - INFO - Epoch [8/100], Train Accuracy: 0.6455, Val Accuracy: 0.5774
+2025-01-13 01:49:37,469 - INFO - Epoch [9/100], Train Accuracy: 0.6476, Val Accuracy: 0.6067
+2025-01-13 01:49:37,612 - INFO - Epoch [10/100], Train Accuracy: 0.6681, Val Accuracy: 0.5941
+2025-01-13 01:49:37,755 - INFO - Epoch [11/100], Train Accuracy: 0.6759, Val Accuracy: 0.5962
+2025-01-13 01:49:37,931 - INFO - Epoch [12/100], Train Accuracy: 0.6717, Val Accuracy: 0.5962
+2025-01-13 01:49:38,089 - INFO - Epoch [13/100], Train Accuracy: 0.6696, Val Accuracy: 0.5983
+2025-01-13 01:49:38,243 - INFO - Epoch [14/100], Train Accuracy: 0.6691, Val Accuracy: 0.6067
+2025-01-13 01:49:38,400 - INFO - Epoch [15/100], Train Accuracy: 0.6691, Val Accuracy: 0.6025
+2025-01-13 01:49:38,561 - INFO - Epoch [16/100], Train Accuracy: 0.6686, Val Accuracy: 0.6004
+2025-01-13 01:49:38,715 - INFO - Epoch [17/100], Train Accuracy: 0.6686, Val Accuracy: 0.6025
+2025-01-13 01:49:38,876 - INFO - Epoch [18/100], Train Accuracy: 0.6686, Val Accuracy: 0.6088
+2025-01-13 01:49:39,036 - INFO - Epoch [19/100], Train Accuracy: 0.6686, Val Accuracy: 0.6067
+2025-01-13 01:49:39,213 - INFO - Epoch [20/100], Train Accuracy: 0.6686, Val Accuracy: 0.6109
+2025-01-13 01:49:39,364 - INFO - Epoch [21/100], Train Accuracy: 0.6686, Val Accuracy: 0.6088
+2025-01-13 01:49:39,515 - INFO - Epoch [22/100], Train Accuracy: 0.6686, Val Accuracy: 0.6130
+2025-01-13 01:49:39,666 - INFO - Epoch [23/100], Train Accuracy: 0.6686, Val Accuracy: 0.6088
+2025-01-13 01:49:39,932 - INFO - Epoch [24/100], Train Accuracy: 0.6686, Val Accuracy: 0.6151
+2025-01-13 01:49:40,180 - INFO - Epoch [25/100], Train Accuracy: 0.6686, Val Accuracy: 0.6025
+2025-01-13 01:49:40,476 - INFO - Epoch [26/100], Train Accuracy: 0.6686, Val Accuracy: 0.6088
+2025-01-13 01:49:40,694 - INFO - Epoch [27/100], Train Accuracy: 0.6686, Val Accuracy: 0.6046
+2025-01-13 01:49:40,900 - INFO - Epoch [28/100], Train Accuracy: 0.6686, Val Accuracy: 0.6025
+2025-01-13 01:49:41,090 - INFO - Epoch [29/100], Train Accuracy: 0.6686, Val Accuracy: 0.6088
+2025-01-13 01:49:41,389 - INFO - Epoch [30/100], Train Accuracy: 0.6686, Val Accuracy: 0.6067
+2025-01-13 01:49:41,646 - INFO - Epoch [31/100], Train Accuracy: 0.6686, Val Accuracy: 0.6151
+2025-01-13 01:49:41,797 - INFO - Epoch [32/100], Train Accuracy: 0.6686, Val Accuracy: 0.6046
+2025-01-13 01:49:41,947 - INFO - Epoch [33/100], Train Accuracy: 0.6686, Val Accuracy: 0.6067
+2025-01-13 01:49:42,129 - INFO - Epoch [34/100], Train Accuracy: 0.6686, Val Accuracy: 0.6088
+2025-01-13 01:49:42,286 - INFO - Epoch [35/100], Train Accuracy: 0.6686, Val Accuracy: 0.6025

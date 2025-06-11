@@ -1,0 +1,2 @@
+2025-01-16 22:43:37,607 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.564. Dataset Size 2400. 218 neurons. Leanring Rate 0.0025
+2025-01-16 22:43:43,448 - INFO - Error: 'NoneType' object is not iterable

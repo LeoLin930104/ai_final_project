@@ -1,0 +1,2 @@
+2025-01-16 19:56:54,018 - INFO - Training with Vectorized Data 310 features. Dropout Rate 0.564. Dataset Size 3. 128 neurons. Leanring Rate 0.0025
+2025-01-16 19:56:54,018 - INFO - Error: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=3.

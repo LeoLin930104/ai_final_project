@@ -1,0 +1,2 @@
+2025-01-12 18:53:01,297 - INFO - Testing console logging.
+2025-01-12 18:53:01,552 - INFO - Error: name 'sys' is not defined

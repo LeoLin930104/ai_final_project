@@ -1,0 +1,11 @@
+2025-01-14 23:18:52,932 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-14 23:18:52,933 - INFO - Training for fold 1/5
+2025-01-14 23:18:54,910 - INFO - Epoch [1/100], Train Accuracy: 0.5675, Val Accuracy: 0.8787
+2025-01-14 23:18:55,027 - INFO - Epoch [2/100], Train Accuracy: 0.9209, Val Accuracy: 0.8849
+2025-01-14 23:18:55,147 - INFO - Epoch [3/100], Train Accuracy: 0.9503, Val Accuracy: 0.8975
+2025-01-14 23:18:55,275 - INFO - Epoch [4/100], Train Accuracy: 0.9623, Val Accuracy: 0.9079
+2025-01-14 23:18:55,413 - INFO - Epoch [5/100], Train Accuracy: 0.9812, Val Accuracy: 0.9121
+2025-01-14 23:18:55,524 - INFO - Epoch [6/100], Train Accuracy: 0.9880, Val Accuracy: 0.9142
+2025-01-14 23:18:55,661 - INFO - Epoch [7/100], Train Accuracy: 0.9932, Val Accuracy: 0.9121
+2025-01-14 23:18:55,682 - INFO - Fold 1 Validation Accuracy: 0.9121
+2025-01-14 23:19:06,655 - INFO - Error: The 'y_true' parameter of roc_curve must be an array-like. Got False instead.

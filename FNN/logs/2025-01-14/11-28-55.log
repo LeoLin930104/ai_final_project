@@ -1,0 +1,10 @@
+2025-01-14 11:28:55,596 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-14 11:28:55,596 - INFO - Training for fold 1/5
+2025-01-14 11:28:56,833 - INFO - Epoch [1/100], Train Accuracy: 0.3424, Val Accuracy: 0.3180
+2025-01-14 11:28:56,916 - INFO - Epoch [2/100], Train Accuracy: 0.6728, Val Accuracy: 0.8117
+2025-01-14 11:28:56,994 - INFO - Epoch [3/100], Train Accuracy: 0.9419, Val Accuracy: 0.8996
+2025-01-14 11:28:57,110 - INFO - Epoch [4/100], Train Accuracy: 0.9853, Val Accuracy: 0.8933
+2025-01-14 11:28:57,311 - INFO - Epoch [5/100], Train Accuracy: 0.9901, Val Accuracy: 0.9100
+2025-01-14 11:28:57,475 - INFO - Epoch [6/100], Train Accuracy: 0.9927, Val Accuracy: 0.9079
+2025-01-14 11:28:57,485 - INFO - Fold 1 Validation Accuracy: 0.9079
+2025-01-14 11:29:00,921 - INFO - Error: list indices must be integers or slices, not tuple

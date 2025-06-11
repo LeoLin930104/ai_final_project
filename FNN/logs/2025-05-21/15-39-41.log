@@ -1,0 +1,56 @@
+2025-05-21 15:39:41,903 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.768. Dataset Size 2400. 218 neurons. Leanring Rate 0.00264
+2025-05-21 15:39:41,904 - INFO - Training for fold 1/5
+2025-05-21 15:39:42,794 - INFO - Epoch [1/100], Train Accuracy: 0.6146, Val Accuracy: 0.9062
+2025-05-21 15:39:42,849 - INFO - Epoch [2/100], Train Accuracy: 0.9313, Val Accuracy: 0.9354
+2025-05-21 15:39:42,905 - INFO - Epoch [3/100], Train Accuracy: 0.9708, Val Accuracy: 0.9396
+2025-05-21 15:39:42,961 - INFO - Epoch [4/100], Train Accuracy: 0.9891, Val Accuracy: 0.9333
+2025-05-21 15:39:43,014 - INFO - Epoch [5/100], Train Accuracy: 0.9953, Val Accuracy: 0.9375
+2025-05-21 15:39:43,073 - INFO - Epoch [6/100], Train Accuracy: 0.9964, Val Accuracy: 0.9333
+2025-05-21 15:39:43,083 - INFO -   Class political science: Precision: 0.9267, Recall: 0.9145, F1: 0.9205
+2025-05-21 15:39:43,083 - INFO -   Class psychology: Precision: 0.9360, Recall: 0.9641, F1: 0.9499
+2025-05-21 15:39:43,083 - INFO -   Class sociology: Precision: 0.9367, Recall: 0.9193, F1: 0.9279
+2025-05-21 15:39:43,833 - INFO - Training for fold 2/5
+2025-05-21 15:39:43,895 - INFO - Epoch [1/100], Train Accuracy: 0.6573, Val Accuracy: 0.8958
+2025-05-21 15:39:43,976 - INFO - Epoch [2/100], Train Accuracy: 0.9380, Val Accuracy: 0.9167
+2025-05-21 15:39:44,049 - INFO - Epoch [3/100], Train Accuracy: 0.9740, Val Accuracy: 0.9271
+2025-05-21 15:39:44,095 - INFO - Epoch [4/100], Train Accuracy: 0.9891, Val Accuracy: 0.9313
+2025-05-21 15:39:44,150 - INFO - Epoch [5/100], Train Accuracy: 0.9958, Val Accuracy: 0.9354
+2025-05-21 15:39:44,217 - INFO - Epoch [6/100], Train Accuracy: 0.9964, Val Accuracy: 0.9292
+2025-05-21 15:39:44,225 - INFO -   Class political science: Precision: 0.9091, Recall: 0.9317, F1: 0.9202
+2025-05-21 15:39:44,225 - INFO -   Class psychology: Precision: 0.9290, Recall: 0.9351, F1: 0.9320
+2025-05-21 15:39:44,225 - INFO -   Class sociology: Precision: 0.9500, Recall: 0.9212, F1: 0.9354
+2025-05-21 15:39:44,323 - INFO - Training for fold 3/5
+2025-05-21 15:39:44,374 - INFO - Epoch [1/100], Train Accuracy: 0.7214, Val Accuracy: 0.9125
+2025-05-21 15:39:44,426 - INFO - Epoch [2/100], Train Accuracy: 0.9365, Val Accuracy: 0.9375
+2025-05-21 15:39:44,497 - INFO - Epoch [3/100], Train Accuracy: 0.9703, Val Accuracy: 0.9313
+2025-05-21 15:39:44,563 - INFO - Epoch [4/100], Train Accuracy: 0.9885, Val Accuracy: 0.9250
+2025-05-21 15:39:44,601 - INFO - Epoch [5/100], Train Accuracy: 0.9938, Val Accuracy: 0.9229
+2025-05-21 15:39:44,731 - INFO - Epoch [6/100], Train Accuracy: 0.9953, Val Accuracy: 0.9229
+2025-05-21 15:39:44,741 - INFO -   Class political science: Precision: 0.8895, Recall: 0.9217, F1: 0.9053
+2025-05-21 15:39:44,741 - INFO -   Class psychology: Precision: 0.9321, Recall: 0.9679, F1: 0.9497
+2025-05-21 15:39:44,741 - INFO -   Class sociology: Precision: 0.9521, Recall: 0.8797, F1: 0.9145
+2025-05-21 15:39:44,838 - INFO - Training for fold 4/5
+2025-05-21 15:39:44,892 - INFO - Epoch [1/100], Train Accuracy: 0.6682, Val Accuracy: 0.9062
+2025-05-21 15:39:44,933 - INFO - Epoch [2/100], Train Accuracy: 0.9380, Val Accuracy: 0.9146
+2025-05-21 15:39:44,968 - INFO - Epoch [3/100], Train Accuracy: 0.9745, Val Accuracy: 0.9250
+2025-05-21 15:39:45,008 - INFO - Epoch [4/100], Train Accuracy: 0.9891, Val Accuracy: 0.9229
+2025-05-21 15:39:45,045 - INFO - Epoch [5/100], Train Accuracy: 0.9943, Val Accuracy: 0.9292
+2025-05-21 15:39:45,081 - INFO - Epoch [6/100], Train Accuracy: 0.9964, Val Accuracy: 0.9292
+2025-05-21 15:39:45,118 - INFO - Epoch [7/100], Train Accuracy: 0.9969, Val Accuracy: 0.9229
+2025-05-21 15:39:45,127 - INFO -   Class political science: Precision: 0.9262, Recall: 0.8961, F1: 0.9109
+2025-05-21 15:39:45,127 - INFO -   Class psychology: Precision: 0.9259, Recall: 0.9434, F1: 0.9346
+2025-05-21 15:39:45,127 - INFO -   Class sociology: Precision: 0.9172, Recall: 0.9281, F1: 0.9226
+2025-05-21 15:39:45,225 - INFO - Training for fold 5/5
+2025-05-21 15:39:45,304 - INFO - Epoch [1/100], Train Accuracy: 0.6943, Val Accuracy: 0.9042
+2025-05-21 15:39:45,343 - INFO - Epoch [2/100], Train Accuracy: 0.9318, Val Accuracy: 0.9333
+2025-05-21 15:39:45,379 - INFO - Epoch [3/100], Train Accuracy: 0.9766, Val Accuracy: 0.9292
+2025-05-21 15:39:45,435 - INFO - Epoch [4/100], Train Accuracy: 0.9901, Val Accuracy: 0.9313
+2025-05-21 15:39:45,478 - INFO - Epoch [5/100], Train Accuracy: 0.9948, Val Accuracy: 0.9375
+2025-05-21 15:39:45,522 - INFO - Epoch [6/100], Train Accuracy: 0.9969, Val Accuracy: 0.9354
+2025-05-21 15:39:45,572 - INFO - Epoch [7/100], Train Accuracy: 0.9969, Val Accuracy: 0.9375
+2025-05-21 15:39:45,629 - INFO - Epoch [8/100], Train Accuracy: 0.9979, Val Accuracy: 0.9313
+2025-05-21 15:39:45,638 - INFO -   Class political science: Precision: 0.9494, Recall: 0.8982, F1: 0.9231
+2025-05-21 15:39:45,638 - INFO -   Class psychology: Precision: 0.9515, Recall: 0.9573, F1: 0.9544
+2025-05-21 15:39:45,638 - INFO -   Class sociology: Precision: 0.8917, Recall: 0.9396, F1: 0.9150
+2025-05-21 15:39:45,736 - INFO - Confussion matrices and ROC curves are saved in: /Users/leolin/Library/CloudStorage/OneDrive-学校法人立命館/Ritsumei/4th_Semester/Artificial_Intelligence/final_project/code/FNN/model/2025-05-21/15-39-41//figures/
+

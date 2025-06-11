@@ -1,0 +1,3 @@
+2025-01-13 00:04:41,342 - INFO - Training with Vectorized Data 500 features. Dropout Rate 0.70. Dataset Size 2388. 1 neurons.
+2025-01-13 00:04:41,342 - INFO - Training for fold 1/10
+2025-01-13 00:04:42,240 - INFO - Error: mat1 and mat2 shapes cannot be multiplied (32x20221 and 500x1)

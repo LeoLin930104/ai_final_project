@@ -1,0 +1,4 @@
+2025-01-12 18:38:46,178 - INFO - Testing console logging.
+2025-01-12 18:38:46,453 - INFO - Training with Vectorized Data 5000 features. Dropout Rate 0.70. Dataset Size 2388
+2025-01-12 18:38:47,617 - INFO - Epoch [1/100], Train Accuracy: 0.3639, Val Accuracy: 0.3787
+2025-01-12 18:38:47,617 - INFO - Error: '>' not supported between instances of 'list' and 'float'

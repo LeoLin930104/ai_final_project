@@ -1,0 +1,4 @@
+2025-01-14 22:14:30,420 - INFO - Training with Vectorized Data 2000 features. Dropout Rate 0.70. Dataset Size 2388. 128 neurons.
+2025-01-14 22:14:30,421 - INFO - Training for fold 1/5
+2025-01-14 22:14:32,488 - INFO - Epoch [1/100], Train Accuracy: 0.5743, Val Accuracy: 0.8159
+2025-01-14 22:14:32,619 - INFO - Epoch [2/100], Train Accuracy: 0.8859, Val Accuracy: 0.8745

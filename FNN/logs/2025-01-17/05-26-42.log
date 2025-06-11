@@ -1,0 +1,33 @@
+2025-01-17 05:26:43,039 - INFO - Training with Vectorized Data 1000 features. Dropout Rate 0.768. Dataset Size 2400. 218 neurons. Leanring Rate 0.00264
+2025-01-17 05:26:43,039 - INFO - Training for fold 1/5
+2025-01-17 05:26:44,149 - INFO - Epoch [1/100], Train Accuracy: 0.6880, Val Accuracy: 0.9000
+2025-01-17 05:26:44,250 - INFO - Epoch [2/100], Train Accuracy: 0.9354, Val Accuracy: 0.9167
+2025-01-17 05:26:44,357 - INFO - Epoch [3/100], Train Accuracy: 0.9755, Val Accuracy: 0.9229
+2025-01-17 05:26:44,460 - INFO - Epoch [4/100], Train Accuracy: 0.9875, Val Accuracy: 0.9187
+2025-01-17 05:26:44,570 - INFO - Epoch [5/100], Train Accuracy: 0.9932, Val Accuracy: 0.9187
+2025-01-17 05:26:44,672 - INFO - Epoch [6/100], Train Accuracy: 0.9948, Val Accuracy: 0.9187
+2025-01-17 05:26:44,774 - INFO - Epoch [7/100], Train Accuracy: 0.9964, Val Accuracy: 0.9229
+2025-01-17 05:26:44,882 - INFO - Epoch [8/100], Train Accuracy: 0.9969, Val Accuracy: 0.9271
+2025-01-17 05:26:44,977 - INFO - Epoch [9/100], Train Accuracy: 0.9969, Val Accuracy: 0.9250
+2025-01-17 05:26:45,075 - INFO - Epoch [10/100], Train Accuracy: 0.9969, Val Accuracy: 0.9250
+2025-01-17 05:26:45,178 - INFO - Epoch [11/100], Train Accuracy: 0.9969, Val Accuracy: 0.9271
+2025-01-17 05:26:45,281 - INFO - Epoch [12/100], Train Accuracy: 0.9974, Val Accuracy: 0.9250
+2025-01-17 05:26:45,381 - INFO - Epoch [13/100], Train Accuracy: 0.9974, Val Accuracy: 0.9250
+2025-01-17 05:26:45,478 - INFO - Epoch [14/100], Train Accuracy: 0.9974, Val Accuracy: 0.9250
+2025-01-17 05:26:45,579 - INFO - Epoch [15/100], Train Accuracy: 0.9974, Val Accuracy: 0.9250
+2025-01-17 05:26:45,683 - INFO - Epoch [16/100], Train Accuracy: 0.9974, Val Accuracy: 0.9292
+2025-01-17 05:26:45,783 - INFO - Epoch [17/100], Train Accuracy: 0.9974, Val Accuracy: 0.9250
+2025-01-17 05:26:45,799 - INFO -   Class political science: Precision: 0.8966, Recall: 0.8966, F1: 0.8966
+2025-01-17 05:26:45,799 - INFO -   Class psychology: Precision: 0.9441, Recall: 0.9494, F1: 0.9468
+2025-01-17 05:26:45,799 - INFO -   Class sociology: Precision: 0.9295, Recall: 0.9236, F1: 0.9265
+2025-01-17 05:26:46,107 - INFO - Training for fold 2/5
+2025-01-17 05:26:46,219 - INFO - Epoch [1/100], Train Accuracy: 0.6370, Val Accuracy: 0.9146
+2025-01-17 05:26:46,329 - INFO - Epoch [2/100], Train Accuracy: 0.9344, Val Accuracy: 0.9396
+2025-01-17 05:26:46,437 - INFO - Epoch [3/100], Train Accuracy: 0.9740, Val Accuracy: 0.9354
+2025-01-17 05:26:46,544 - INFO - Epoch [4/100], Train Accuracy: 0.9917, Val Accuracy: 0.9396
+2025-01-17 05:26:46,649 - INFO - Epoch [5/100], Train Accuracy: 0.9943, Val Accuracy: 0.9417
+2025-01-17 05:26:46,753 - INFO - Epoch [6/100], Train Accuracy: 0.9969, Val Accuracy: 0.9375
+2025-01-17 05:26:46,769 - INFO -   Class political science: Precision: 0.9565, Recall: 0.9390, F1: 0.9477
+2025-01-17 05:26:46,769 - INFO -   Class psychology: Precision: 0.9379, Recall: 0.9252, F1: 0.9315
+2025-01-17 05:26:46,769 - INFO -   Class sociology: Precision: 0.9195, Recall: 0.9467, F1: 0.9329
+2025-01-17 05:26:46,770 - INFO - Error: [WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\LeoLi\\OneDrive - äwçZñ@êlóßñΩäŸ\\Ritsumei\\4th_Semester\\Artificial_Intelligence\\final_project\\code\\FNN/model/2025-01-17/05-26-43//figures/'
